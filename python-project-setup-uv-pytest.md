@@ -65,7 +65,6 @@ my-project/
 │   ├── lib/
 │   └── pyvenv.cfg
 ├── README.md
-├── hello.py
 ├── pyproject.toml
 └── uv.lock
 ```
