@@ -16,7 +16,6 @@ Verify it's available:
 
 ```bash
 uv --version
-# uv 0.5.x
 ```
 
 ---
