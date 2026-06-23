@@ -1,13 +1,25 @@
 # Python Project Structure: Simple vs "Proper" Package Layout
 
-## Set up
-https://github.com/RGGH/my-project/blob/main/python-project-setup-uv-pytest.md
+[![Watch the video](https://img.youtube.com/vi/gtdgkeekVzQ/maxresdefault.jpg)](https://youtu.be/gtdgkeekVzQ)
 
-https://youtu.be/gtdgkeekVzQ
+## Set up
+
+[Project Setup Notes](https://github.com/RGGH/my-project/blob/main/python-project-setup-uv-pytest.md)
 
 ## What We Built
 
 We created a small Python project using `uv` and `pytest`.
+
+Initial structure:
+```
+.
+├── pyproject.toml
+├── src
+│   └── my_project
+│       ├── __init__.py
+│       └── utils.py
+└── tests
+```
 
 Initial structure:
 
