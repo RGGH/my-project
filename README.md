@@ -1,5 +1,8 @@
 # Python Project Structure: Simple vs "Proper" Package Layout
 
+## Set up
+https://github.com/RGGH/my-project/blob/main/python-project-setup-uv-pytest.md
+
 https://youtu.be/gtdgkeekVzQ
 
 ## What We Built
