@@ -1,5 +1,7 @@
 # Python Project Structure: Simple vs "Proper" Package Layout
 
+https://youtu.be/gtdgkeekVzQ
+
 ## What We Built
 
 We created a small Python project using `uv` and `pytest`.
