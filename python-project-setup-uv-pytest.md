@@ -73,7 +73,7 @@ my-project/
 
 ---
 
-## 3. Set Up the Source Layout
+## 3. Set Up the Source Layout - aka Option 2 ("proper" version)
 
 Flat projects get messy fast. From inside `my-project/`, create a package directory and a tests directory:
 
